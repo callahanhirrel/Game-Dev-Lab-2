@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{9C20D2B9-EFDE-4656-8188-6A84F6064C68}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Target.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RotateTarget.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/Gun.cs" Line="27" Column="9" />
+      <File FileName="Assets/Scripts/Target.cs" Line="7" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
